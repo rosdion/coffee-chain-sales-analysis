@@ -1,7 +1,5 @@
 # ☕ Coffee Chain Sales Analysis
 
-![Dashboard Preview](Preview.png)
-
 A full end-to-end project using SQL, Python, and Tableau to analyze coffee shop sales, customer behavior, and product performance.
 
 ---
